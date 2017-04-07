@@ -1,0 +1,107 @@
+p#test1 {
+    background-color: yellowgreen;
+    font-family: verdana;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+}
+p.test2 {
+    font-family: verdana;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+p.test3 {
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bold;
+}
+p.test4 {
+    font-family: verdana;
+    background-color: grey;
+    text-align: center;
+    font-size: 17px;
+    width: 50%;
+    border-radius: 9px;
+    display: table-cell;
+        padding: 10px;
+}
+p.test5 {
+    font-family: verdana;
+    background-color: grey;
+    text-align: center;
+    width: 50%;
+    border-radius: 9px;
+    display: table-cell;
+    padding-top: 38px;
+}
+p.test6 {
+    font-family: verdana;
+    font-weight: bold;
+}
+ul,ol.test7{
+	font-family: verdana;
+	line-height: 25px
+}
+tr.test8{
+	font-family: verdana;
+}
+img{
+	opacity: 0.5;
+}
+input#normal2{
+	margin: 0 7px;
+}
+#box, #box2, #box3{
+	width: 100px;
+	height: 50px;
+	position: absolute;
+}
+#box{
+	background-color: skyblue;
+	top :10px;
+	left: 10px;
+	z-index: 3;
+	overflow: scroll;
+}
+#box2{
+	background-color: grey;
+	top :20px;
+	left: 20px;
+	z-index: 2;
+}
+#box3{
+	background-color: black;
+	top :30px;
+	left: 30px;
+	z-index: 1;
+}
+
+
+
+
+
+
+#sample{
+	background-color: violet;
+	width: 100px;
+	height: 50px;
+}
+#sample2{
+	background-color: pink;
+	width: 100px;
+	height: 50px;
+	position: relative;
+}
+#sample3{
+	background-color: skyblue;
+	width: 40px;
+	height: 20px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+
+
