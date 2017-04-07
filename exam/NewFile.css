@@ -1,0 +1,100 @@
+@CHARSET "UTF-8";
+body {
+	color: skyblue;
+	fonta-family: verdana;
+	font-size: 10px;
+	background: white;
+}
+.title{
+	text-align: center;
+}
+
+div {
+	font-family: verdana;
+	text-decoration: line-through;
+}
+
+h1 {
+	color: orange;
+	display: block;
+}
+div span {
+	color: green;
+}
+div>span {
+	color: red;
+}
+p+p {
+	color: violet;
+}	
+ul li:first-child {
+	color: blue;
+}
+a[href$=".com"]{
+	color: green;
+}
+a:link {
+	color: skyblue;
+}
+
+a:visited {
+	color: yellow;
+}
+a:hover{
+	color: pink;
+}
+a:active{
+	color: red;
+}
+textarea:focus{
+	background: skyblue;
+}
+p:first-line {
+	color:skyblue;
+}
+p:first-letter{
+	color: blue;
+}
+table tr th {
+	border-color: orange;
+	border-width: 5px;
+	padding: 10px 10px;
+}
+ul li {
+	list-style: url('me.png');
+}
+div {
+	cursor: url('me.png'), auto;
+}
+.h1 {
+	quotes: " ";
+}
+h1:before{
+	content: open-quote;
+}
+h1:after{
+	content: close-quote;
+}
+li:first-child{
+	cursor: help;
+}
+li:last-child{
+	cursor: move;
+}
+li:nth-child(2){
+	cursor: pointer;
+}
+body{
+	background-image: url(cebusample.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+

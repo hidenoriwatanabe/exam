@@ -1,0 +1,62 @@
+.chapter8 {
+    color: white;
+    background-color: #98da4b;
+    font-size: 46px;
+    text-align: center;
+    margin-top: 27px;
+    font-family: verdana;
+}
+#center {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: verdana;
+}
+.cheezzy{
+	font-size: 23px;
+    font-family: verdana;
+    font-weight: bold;
+}
+.text{
+    font-family: verdana;
+    line-height: 25px;
+}
+.height{
+    line-height: 25px;
+    font-family: verdana;
+}
+pre.text2 {
+    background-color: #f1f0f0;
+    padding: 20px;
+    border-radius: 9px;
+    text-align: center;
+    width: 100%;
+    font-family: verdana;
+}
+.about-text fieldset{
+   	background-color: #f1f0f0;
+}
+input#normal2 {
+    margin: 0 7px;
+}
+h2.text4 {
+    font-family: verdana;
+    line-height: 25px;
+}
+tr.text5 {
+    font-family: verdana;
+    line-height: 25px;
+}
+input {
+    margin: 0 7px;
+}
+tr,th td {
+    height: 34px;
+}
+table, td {
+    height: 70px;
+}
+
+div{
+	border-top: orange 4px dotted;
+}
